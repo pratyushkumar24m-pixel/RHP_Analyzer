@@ -1,0 +1,16 @@
+streamlit
+pymupdf
+pdfplumber
+pandas
+numpy
+scikit-learn
+sentence-transformers
+reportlab
+pdf2image
+camelot-py[cv]   # optional (requires ghostscript) — helpful for tricky tables
+pytesseract      # optional (for OCR)
+groq
+pymupdf
+streamlit
+reportlab
+scikit-learn
